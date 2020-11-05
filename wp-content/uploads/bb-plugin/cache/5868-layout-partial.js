@@ -1,0 +1,3 @@
+
+(function($){$(function(){$('.fl-node-5a6eec8851f13 .fl-mosaicflow-content').one('filled',function(){var hash=window.location.hash.replace('#','');if(hash!=''){FLBuilderLayout._scrollToElement($('#'+hash));}
+if('undefined'!=typeof Waypoint){Waypoint.refreshAll();}}).mosaicflow({itemSelector:'.fl-mosaicflow-item',columnClass:'fl-mosaicflow-col',minItemWidth:300});});})(jQuery);(function($){$(function(){new FLBuilderPostGrid({id:'5a6e7edda1fc6',layout:'feed',pagination:'none',postSpacing:'60',postWidth:'300',matchHeight:0});});})(jQuery);
